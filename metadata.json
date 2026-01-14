@@ -2,5 +2,6 @@
   "name": "My Token",
   "symbol": "MYT",
   "description": "This is my first token on Solana.",
-  "image": "https://YOUR_HOST/token.png"
+  "image": "https://raw.githubusercontent.com/matsu0727/test/main/token.png"
+
 }
